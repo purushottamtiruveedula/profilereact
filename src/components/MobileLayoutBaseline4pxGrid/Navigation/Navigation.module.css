@@ -1,0 +1,76 @@
+.home.home {
+  left: calc(50% - 118.5px);
+  top: 20px;
+  transform: translateX(-50%);
+}
+.vector.vector {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.search.search {
+  left: calc(50% - 38.5px);
+  top: 20px;
+  transform: translateX(-50%);
+}
+.vector2.vector2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.saved.saved {
+  left: calc(50% - -41.5px);
+  top: 20px;
+  transform: translateX(-50%);
+}
+.vector3.vector3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.profile.profile {
+  left: calc(50% - -121.5px);
+  top: 20px;
+  transform: translateX(-50%);
+}
+.vector4.vector4 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.root {
+  position: absolute;
+  left: 0;
+  bottom: 748px;
+  width: 343px;
+  height: 64px;
+  align-items: flex-start;
+  border-radius: 100px;
+  background-color: #fff;
+  overflow: hidden;
+  box-shadow: 0px 0px 20px 0px #0000001a;
+}
+.ellipse1 {
+  position: absolute;
+  left: 51px;
+  top: 46px;
+  width: 4px;
+  height: 4px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

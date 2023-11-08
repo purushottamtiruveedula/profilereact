@@ -1,0 +1,64 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 327px;
+  height: 25px;
+  align-items: flex-start;
+}
+.rectangle564 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 284px;
+  height: 25px;
+  border-radius: 16px;
+  background-color: #7ba8ff;
+}
+.myProfile {
+  color: #fff;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: bold;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 284px;
+  height: 25px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle565 {
+  position: absolute;
+  left: 300px;
+  top: 0;
+  width: 27px;
+  height: 25px;
+  border-radius: 16px;
+  background-color: #7ba8ff;
+}
+.iconNext {
+  position: absolute;
+  left: 300px;
+  top: 0;
+  width: 27px;
+  height: 25px;
+  align-items: flex-start;
+}
+.iconArtwork {
+  position: absolute;
+  left: calc(50% - 10.4092px);
+  top: calc(50% - 2.045px);
+  width: 8.9091px;
+  height: 14px;
+  overflow: visible;
+  transform: translate(-50%, -50%);
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
